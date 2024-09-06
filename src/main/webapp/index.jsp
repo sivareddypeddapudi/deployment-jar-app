@@ -9,7 +9,7 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Checking Automation through Webhooks
 </h1>
-<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: yellow; font-size: 30px; text-align: center;">
    Nexus Setup is Done
 </h1>
 </body>
