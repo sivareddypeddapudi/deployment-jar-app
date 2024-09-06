@@ -10,7 +10,7 @@
     Checking Automation through Webhooks
 </h1>
 <h1 style="font-weight: bold; color: black; font-size: 30px; text-align: center;">
-   Nexus Setup is Done
+   NEXUS SETUP IS DONE
 </h1>
 </body>
 </html>
